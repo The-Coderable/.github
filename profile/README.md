@@ -6,8 +6,9 @@
 <body>
 <p>
 <h1 align = "center"><b>Coderable</b></h1>
-<b>🌟Like Puzzle Games ? If Yes Make Sure To Check <a href = "https://rubiks.coderable.studio">Rubiks 🎮</a><br>
-<a href="https://github.com/CoderableOfficial">Follow Me</a>
+<img src="/CODERABLE.gif">
+  <br><br>
+<a href="https://github.com/CoderableOfficial"  align = "center">Follow Me On Github</a>
 </b>
 <br><br>
 <h2>About</h2>
