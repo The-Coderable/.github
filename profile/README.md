@@ -6,7 +6,7 @@
 <body>
 <p>
 <h1 align = "center"><b>Coderable</b></h1>
-<img src="/CODERABLE.gif">
+<img src="https://github.com/The-Coderable/.github/blob/main/profile/CODERABLE.gif?raw=true">
   <br><br>
 <a href="https://github.com/CoderableOfficial"  align = "center">Follow Me On Github</a>
 </b>
