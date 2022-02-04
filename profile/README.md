@@ -17,10 +17,9 @@
 <h2>Projects</h2>
 <b><ul>
 <li><a href = "https://rubiks.coderable.studio">Rubiks</a></li>
-<li><a href="othello.coderable.studio">Othello</a></li>
+<li><a href="https://othello.coderable.studio">Othello</a></li>
 <li><a href="https://coderable.studio">Codeweb</a></li>
-<li><a href="repulsejs.coderable.studio">RepulseJs<li>
-</ul></b>
+<li><a href="https://repulsejs.coderable.studio">RepulseJs<li></ul></b>
 
 <p>
 </body>
