@@ -12,8 +12,8 @@
 </b>
 <br><br>
 <h2>About</h2>
-<b>Coderable is a Software Company which make websites, games, cli, programming languages, apps and puzzles.</b>
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=3000&lines=Hi+I+Am+Coderable;I+Am+A+Dev;I+Am+A+Techie;I+Am+A+Foodie;I+Am+A+Codeie">
+
 <h2>Projects</h2>
 <b><ul>
 <li><a href = "https://rubiks.coderable.studio">Rubiks</a></li>
